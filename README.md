@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/bsorrentino/maven-annotation-plugin).
+
+
 ## A maven plugin to process compile time annotation for jdk6 and above.
 
 <a href="http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22maven-processor-plugin%22"><img src="https://img.shields.io/maven-central/v/org.bsc.maven/maven-processor-plugin.svg">
